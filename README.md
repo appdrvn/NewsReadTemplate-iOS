@@ -1,8 +1,13 @@
-## News Template iOS
+## [News Template iOS](http://appdrvn.com/news-template-ios)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![News Template iOS](https://appdrvn.blob.core.windows.net/a1b84c0f-dac1-4b57-b657-2790410fdc24/0000027_news-template-ios.jpeg "News Template iOS") 
 
 ## Introduction
 News App Template is based on an information app which is consisting of list view, grid view to display the information, e.g. reads and video information of newspaper. 
+
 The main objective of this template is to assist startups to buy their mobile application faster and easier. 
+
+## Demo
+Prototype: https://marvelapp.com/615bded
 
 ## How to start
 1. This template comes with dummy data in it, if the app need to connect to Web API, then modify ```-(void)loadData``` methods to integrate Web API library.
@@ -195,6 +200,6 @@ AppDrvnNewsApp
 9. Icons8 - https://icons8.com/
 
 ## Useful Links
-1. Appdrvn official website - http://www.appdrvn.com/ 
-2. Appdrvn official facebook page - https://www.facebook.com/Appdrvn/ 
+1. Appdrvn official website - http://appdrvn.com/ 
+2. Appdrvn official facebook page - https://www.facebook.com/appdrvn/ 
 3. Appdrvn email address - hello@appdrvn.com 
